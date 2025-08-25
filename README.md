@@ -40,6 +40,5 @@ Junior Backend Engineer · QA-minded · Based in Türkiye<br/>
 - **LinkedIn:** https://linkedin.com/in/artuncingoz
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=artuncingoz&show_icons=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuncingoz&layout=compact" height="160" />
 </p>
