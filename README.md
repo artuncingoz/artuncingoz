@@ -37,7 +37,7 @@ Junior Backend Engineer · QA-minded · Based in Türkiye<br/>
 ### 📬 Contact
 - **Email:** artuncingoz2@gmail.com  
 - **Portfolio:** https://artuncingoz.vercel.app  
-- **LinkedIn:** https://linkedin.com/in/artuncingoz
+- **LinkedIn:** https://www.linkedin.com/in/artun-cing%C3%B6z/
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuncingoz&layout=compact" height="160" />
