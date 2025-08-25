@@ -2,7 +2,7 @@
 <p align="center">
 Junior Backend Engineer · QA-minded · Based in Türkiye<br/>
 <a href="https://artuncingoz.vercel.app" target="_blank">Portfolio</a> •
-<a href="https://www.linkedin.com/in/artun-cing%C3%B6z/" target="_blank">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/artuncingoz/" target="_blank">LinkedIn</a> •
 <a href="mailto:artuncingoz2@gmail.com" target="_blank">Email</a>
 </p>
 
